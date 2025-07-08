@@ -10,7 +10,7 @@ Here's a breakdown of my daily progress in the HTML Foundation phase. Click on e
 
 - **[Day 01: Introduction to Frontend Development and How the Web Works](Day01-Intro-to-Frontend/README.md)**
 - **[Day 02: What is HTML and setting up your development environment](Day02-HTML-Setup/README.md)**
-- Day 03: HTML document structure and first web page
+- **[Day 03: HTML document structure and first web page](Day03-HTML-Structure/README.md)**
 - Day 04: Headings, paragraphs, line breaks, and horizontal lines
 - Day 05: Lists: ordered, unordered, and description lists
 - Day 06: HTML attributes and nesting elements
