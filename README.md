@@ -9,7 +9,7 @@ This repository serves as my daily log, code playground, and documentation for e
 Here's a breakdown of my daily progress in the HTML Foundation phase. Click on each day to see the detailed log, tasks, and code.
 
 - **[Day 01: Introduction to Frontend Development and How the Web Works](Day01-Intro-to-Frontend/README.md)**
-- Day 02: What is HTML and setting up your development environment
+- **[Day 02: What is HTML and setting up your development environment](Day02-HTML-Setup/README.md)**
 - Day 03: HTML document structure and first web page
 - Day 04: Headings, paragraphs, line breaks, and horizontal lines
 - Day 05: Lists: ordered, unordered, and description lists
