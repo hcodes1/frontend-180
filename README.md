@@ -13,7 +13,7 @@ Here's a breakdown of my daily progress in the HTML Foundation phase. Click on e
 - **[Day 03: HTML document structure and first web page](Day03-HTML-Structure/README.md)**
 - **[Day 04: Headings, paragraphs, line breaks, and horizontal lines](Day04-Text-Elements/README.md)**
 - **[Day 05: Lists: ordered, unordered, and description lists](Day05-Lists/README.md)**
-- Day 06: HTML attributes and nesting elements
+- **[Day 06: HTML attributes and nesting elements](Day06-HTML-Attributes-Nesting/README.md)**
 - Day 07: Anchor tags and linking between pages
 - Day 08: Images and alt attributes
 - Day 09: Embedding videos, audio, and iframes
